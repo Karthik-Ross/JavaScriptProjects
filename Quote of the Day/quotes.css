@@ -1,0 +1,23 @@
+div {
+	text-align: center;
+}
+
+h1 {
+	font-size: 75px;
+	font-family: sans-serif;
+}
+
+p {
+	font-size: 40px;
+}
+
+button {
+	width: 250px;
+	height: 100px;
+	background-color: blue;
+	color: white;
+}
+
+button:hover {
+	background-color: black;
+}

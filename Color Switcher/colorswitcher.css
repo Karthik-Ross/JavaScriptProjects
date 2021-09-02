@@ -1,0 +1,68 @@
+body {
+	font-family: sans-serif;
+	font-size: 30px;
+	line-height: 1.5;
+	margin: 3em;
+	padding: 0;
+}
+
+h1 {
+	line-height: 1.25;
+	margin-left: 300px;
+	margin-top: 150px;
+}
+
+p {
+	margin-left: 350px;
+	font-size:20px ;
+	margin-top: 75px;
+}
+
+#container {
+	list-style: none;
+	padding: 0;
+	margin-left: 250px;
+	margin-top: 75px;
+	overflow: hidden;
+}
+
+#container li {
+	float: left;
+	width: 80px;
+	height: 80px;
+	margin: 0 15px 15px 0;
+	border-radius: 60px;
+	border: 3px solid black;
+}
+
+#graybutton {
+	background-color: gray;
+}
+
+#whitebutton {
+	background-color: white;
+}
+
+#blackbutton {
+	background-color: black;
+}
+
+#bluebutton {
+	background-color: blue;
+}
+
+#greenbutton {
+	background-color: green;
+}
+
+#yellowbutton {
+	background-color: yellow;
+}
+
+#redbutton {
+	background-color: red;
+}
+
+#pinkbutton {
+	background-color: pink;
+}

@@ -1,0 +1,31 @@
+#loancalc {
+	width: 450px;
+	height: 600px;
+	background-color: #000;
+	color: #fff;
+	font-family: sans-serif;
+	margin-left: 500px;
+	margin-top: 50px;
+	padding-left: 90px;
+	padding-top: 20px;
+}
+
+#amount {
+	margin-left: 2px;
+	width: 250px;
+	height: 30px;
+}
+
+#interest {
+	width: 250px;
+	height: 30px;
+}
+
+#month {
+	width: 250px;
+	height: 30px;
+}
+
+h1 {
+	font-size: 40px;
+}

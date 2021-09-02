@@ -1,0 +1,32 @@
+body {
+	background-color: blue;
+}
+
+#clock {
+	font-family: sans-serif;
+	font-size: 195px;
+	background-color: black;
+	color: white;
+	padding: 0.5em 0em;
+	margin: 0px auto;
+	width: 80%;
+	text-align: center;
+}
+
+#banner {
+	color: black;
+	font-size: 50px;
+	text-align: center;
+	background-color: yellow;
+	padding: 0.5em 0em;
+	width: 80%;
+	margin: 10% auto 0%;
+	font-family: sans-serif;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+span {
+	margin-left: 400px;
+
+}
